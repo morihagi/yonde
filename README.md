@@ -189,3 +189,8 @@ README〜ER図作成：5/27<br>
 - Bootstrap（フロントエンド）
 - Fly.io（デプロイ先）
 - Google APIのOAuth認証
+
+<br>
+
+### ■ 画面遷移図
+https://www.figma.com/file/EJ5mZWpMUNK245rYMpHpAL/ScreenFlowDiagram?type=design&node-id=509%3A2609&t=St48cHvVKXPawGuH-1
