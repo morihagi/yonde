@@ -194,3 +194,8 @@ README〜ER図作成：5/27<br>
 
 ### ■ 画面遷移図
 https://www.figma.com/file/EJ5mZWpMUNK245rYMpHpAL/ScreenFlowDiagram?type=design&node-id=509%3A2609&t=St48cHvVKXPawGuH-1
+
+<br>
+
+### ■ ER図
+https://drive.google.com/file/d/1G2PxQzykcoDP5ctK-Pivk9rWnqaLQsLd/view?usp=sharing
