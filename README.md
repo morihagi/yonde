@@ -182,13 +182,23 @@ README〜ER図作成：5/27<br>
 <br>
 
 ### ■ 技術選定
-- Rails7（バックエンド）
-- Rails7（フロントエンドとしてHotwire）
-- mysql（バックエンド・データベース）
-- JavaScript
-- Bootstrap（フロントエンド）
-- Fly.io（デプロイ先）
-- Google APIのOAuth認証
+- 開発環境 `Docker`
+
+- バックエンド `Ruby 3.2.2` `Rails 7.0.5`
+
+- フロントエンド `HotWire`(Rails 7系で使用可能)
+
+- CSSフレームワーク`　Bootstrap 5.2.3`(gem経由でインストール、jqueryなしで使用する)
+
+- WebAPI　`Google API OAuth認証`
+
+- インフラ
+  - Webアプリケーションサーバ `Fly.io`
+  - ファイルサーバ `AWS S3` ※投稿メールの添付画像の保存先として使用
+  - データベースサーバ `MySQL 8.0.33`
+
+- その他
+VCS `GitHub`
 
 <br>
 
