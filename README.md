@@ -182,6 +182,8 @@ README〜ER図作成：5/27<br>
 <br>
 
 ### ■ 技術選定
+- 開発環境 `Docker`
+
 - バックエンド `Ruby 3.2.2` `Rails 7.0.5`
 
 - フロントエンド `HotWire`(Rails 7系で使用可能)
